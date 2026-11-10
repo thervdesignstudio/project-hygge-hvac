@@ -11,6 +11,11 @@ Welcome to the official repository for **Project Hygge** / **HICC (Hygge Integra
 
 Maintained by **The RV Design Studio**, this project provides production-ready firmware, schematics, 3D printable PETG/ASA components, and complete Bills of Materials (BOM) to build a native 24V hydronic heating and integrated cooling system.
 
+> **⚠️ IMPORTANT SAFETY & EDUCATIONAL DISCLAIMER**  
+> This repository documents an experimental personal build for educational and research purposes. 
+> It is NOT a certified installation manual or professional engineering service. 
+> Modifying vehicle HVAC, high-current 24V DC systems, or diesel fuel lines carries inherent 
+> risks of fire, injury, or property damage. Use all code, CAD, and schematics at your own risk.
 ---
 
 ## 🛠️ System Overview & Specifications
