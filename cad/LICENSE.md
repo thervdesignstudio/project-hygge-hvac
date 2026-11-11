@@ -10,13 +10,9 @@ Open-source 24V hydronic HVAC and climate control architecture for custom RVs an
 > risks of fire, injury, or property damage. Use all code, CAD, and schematics at your own risk.
 ---
 
-Creative Commons Attribution 4.0 International Public License
+Creative Commons Attribution 4.0 International (CC BY 4.0) Public License
 
 Copyright (c) 2026 The RV Design Studio (Project Hygge)
-
-=======================================================================
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-=======================================================================
 
 By exercising the Licensed Rights (defined below), You accept and agree 
 to be bound by the terms and conditions of this Creative Commons 
