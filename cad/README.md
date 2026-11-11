@@ -1,10 +1,8 @@
 # Project Hygge: 3D CAD Design
 
-[![License: MIT](https://img.shields.io/badge/Firmware-MIT-yellow.svg)](../LICENSE)
-[![Platform: ESP32-S3](https://img.shields.io/badge/Hardware-ESP32--S3-blue.svg)](https://www.espressif.com/en/products/socs/esp32-s3)
-[![Framework: ESPHome / ESP-IDF](https://img.shields.io/badge/Framework-ESPHome%20%7C%20ESP--IDF-red.svg)](#)
+[![License: CC BY 4.0](https://img.shields.io/badge/Docs-CC_BY_4.0-lightgrey.svg)](DOCS_LICENSE)
 
-This directory contains the firmware, control logic, and bus communications for the **HICC (Hygge Integrated Cooling & Climate)** system. The platform is engineered around the **ESP32-S3** microcontroller, utilizing **TWAI (Two-Wire Automotive Interface / CANbus)** to orchestrate distributed sensors, relays, and HVAC actuators across the vehicle.
+This directory contains the .dxf-, .step-, and emf-files to 3D-print the enclosures, supports and other parts for the **HICC (Hygge Integrated Cooling & Climate)** system.
 
 > **⚠️ IMPORTANT SAFETY & EDUCATIONAL DISCLAIMER**  
 > This repository documents an experimental personal build for educational and research purposes. 
