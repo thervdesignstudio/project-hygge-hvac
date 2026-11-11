@@ -1,3 +1,15 @@
+# project-hygge-hvac
+Open-source 24V hydronic HVAC and climate control architecture for custom RVs and travel trailers.
+
+[![License: MIT](https://img.shields.io/badge/Firmware-MIT-yellow.svg)](LICENSE)
+
+> **⚠️ IMPORTANT SAFETY & EDUCATIONAL DISCLAIMER**  
+> This repository documents an experimental personal build for educational and research purposes. 
+> It is NOT a certified installation manual or professional engineering service. 
+> Modifying vehicle HVAC, high-current 24V DC systems, or diesel fuel lines carries inherent 
+> risks of fire, injury, or property damage. Use all code, CAD, and schematics at your own risk.
+---
+
 MIT License
 
 Copyright (c) 2026 The RV Design Studio
