@@ -1,10 +1,6 @@
-Creative Commons Attribution 4.0 International Public License
+Creative Commons Attribution 4.0 International (CC BY 4.0) Public License
 
 Copyright (c) 2026 The RV Design Studio (Project Hygge)
-
-=======================================================================
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-=======================================================================
 
 By exercising the Licensed Rights (defined below), You accept and agree 
 to be bound by the terms and conditions of this Creative Commons 
@@ -33,7 +29,7 @@ following conditions:
   a. Attribution. If You Share the Licensed Material (including in 
      modified form), You must:
        i. Retain copyright notices and references to this Public License;
-      ii. Retain a link/URL to the original Material (e.g., https://hyggerv.com);
+      ii. Retain a link/URL to the original Material (https://thervdesignstudio.com);
      iii. Indicate if You modified the Material and retain a record of 
           any previous modifications;
       iv. Provide attribution to the Licensor: The RV Design Studio.
