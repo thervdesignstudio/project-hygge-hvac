@@ -41,7 +41,7 @@ following conditions:
   a. Attribution. If You Share the Licensed Material (including in 
      modified form), You must:
        i. Retain copyright notices and references to this Public License;
-      ii. Retain a link/URL to the original Material (e.g., https://hyggerv.com);
+      ii. Retain a link/URL to the original Material (https://thervdesignstudio.com);
      iii. Indicate if You modified the Material and retain a record of 
           any previous modifications;
       iv. Provide attribution to the Licensor: The RV Design Studio.
