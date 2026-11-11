@@ -40,7 +40,7 @@ Project Hygge replaces inefficient roof-top A/C units and standalone propane hea
 The codebase and hardware files are structured into four primary modules:
 
 ```text
-├── firmware/         # ESP32 C++ / ESP-IDF source code, CANbus node logic, ESPHome / Home Assistant YAMLs
+├── firmware/         # ESP32 C++ / ESP-IDF source code, CANbus node logic, ESPHome / Home Assistant YAMLs / Software
 ├── cad/              # Step files, 3D printing models (PETG/ASA), and CNC router DXF profiles
 ├── schematics/       # KiCad schematics, 24V DC wiring diagrams, optocoupled relay layouts, PEX plumbing
 └── docs/             # Bill of Materials (BOM), assembly guides, commissioning procedures, safety warnings
