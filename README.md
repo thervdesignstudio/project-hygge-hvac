@@ -7,7 +7,7 @@ Open-source 24V hydronic HVAC and climate control architecture for custom RVs an
 [![Build Status](https://img.shields.io/badge/Status-v1.0.0--alpha-green.svg)](#)
 [![Community](https://img.shields.io/badge/Studio-The_RV_Design_Studio-copper?color=B87333)](https://thervdesignstudio.com)
 
-Welcome to the official repository for **Project Hygge** / **HICC (Hygge Integrated Cooling & Climate)**—an open-source, high-efficiency climate control system engineered specifically for off-grid travel trailers, van conversions, and overland builds. 
+Welcome to the official repository for **Project Hygge** / **HICC (Hygge Integrated Climate Control)**—an open-source, high-efficiency climate control system engineered specifically for off-grid travel trailers, van conversions, and overland builds. 
 
 Maintained by **The RV Design Studio**, this project provides production-ready firmware, schematics, 3D printable PETG/ASA components, and complete Bills of Materials (BOM) to build a native 24V hydronic heating and integrated cooling system.
 
@@ -40,7 +40,7 @@ Project Hygge replaces inefficient roof-top A/C units and standalone propane hea
 The codebase and hardware files are structured into four primary modules:
 
 ```text
-├── firmware/         # ESP32 C++ / ESP-IDF source code, CANbus node logic, ESPHome / Home Assistant YAMLs / Software
 ├── cad/              # Step files, 3D printing models (PETG/ASA), and CNC router DXF profiles
-├── schematics/       # KiCad schematics, 24V DC wiring diagrams, optocoupled relay layouts, PEX plumbing
 └── docs/             # Bill of Materials (BOM), assembly guides, commissioning procedures, safety warnings
+├── firmware/         # ESP32 C++ / ESP-IDF source code, CANbus node logic, ESPHome / Home Assistant YAMLs / Software
+└── hardware/         # BPHE, Furnace, TMV's, Radiator coil, Fans, 24V Underbench A/C, Glycol & diesel tank
