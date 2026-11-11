@@ -1,4 +1,4 @@
-# Project Hygge: Firmware & Embedded Architecture
+# Project Hygge: Firmware, Software & Embedded Architecture
 
 [![License: MIT](https://img.shields.io/badge/Firmware-MIT-yellow.svg)](../LICENSE)
 [![Platform: ESP32-S3](https://img.shields.io/badge/Hardware-ESP32--S3-blue.svg)](https://www.espressif.com/en/products/socs/esp32-s3)
