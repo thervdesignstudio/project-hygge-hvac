@@ -18,6 +18,12 @@ Maintained by **The RV Design Studio**, this project provides production-ready f
 > risks of fire, injury, or property damage. Use all code, CAD, and schematics at your own risk.
 ---
 
+## 📊 Quick Links & Documentation
+
+    • Primary Studio / Newsletter: TheRVDesignStudio.com (Deep-dive technical articles & engineering updates)
+    • Build Video Logs: YouTube Channel yt.thervdesignstudio.com
+---
+
 ## 🛠️ System Overview & Specifications
 
 Project Hygge replaces inefficient roof-top A/C units and standalone propane heaters with a unified 24V under-bench architecture featuring hydronic radiant floor heating, fresh-air reheat capability, and variable-capacity cooling.
