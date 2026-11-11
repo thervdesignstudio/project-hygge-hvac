@@ -2,9 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Docs-CC_BY_4.0-lightgrey.svg)](DOCS_LICENSE)
 
-This directory contains the PDF Document files for the **HICC (Hygge Integrated Cooling & Climate)** system, such as Bill of Materials (BOM), assembly guides, commissioning procedures, safety warnings
-
-
+This directory contains the PDF Document files for the **HICC (Hygge Integrated Climate Control)** system, such as Bill of Materials (BOM), assembly guides, commissioning procedures, safety warnings
 
 > **⚠️ IMPORTANT SAFETY & EDUCATIONAL DISCLAIMER**  
 > This repository documents an experimental personal build for educational and research purposes. 
